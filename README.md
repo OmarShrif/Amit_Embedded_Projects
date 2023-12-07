@@ -1,5 +1,6 @@
 # AMIT-Embedded-project
 -------------- Glove for deaf ----------------
+
 Project that enabled real-time translation of 5 hand gestures into LCD text, empowering the deaf community with enhanced communication capabilities,. 
 
 o Used the Embedded C Programming with:
