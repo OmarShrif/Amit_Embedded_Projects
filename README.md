@@ -1,3 +1,3 @@
 # AMIT-Embedded-project
-glove for deaf 
+Glove for deaf 
 this project help to understand the deaf people by sign language which appears on LCD, make it easy to understand it. 
